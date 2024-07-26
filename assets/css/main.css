@@ -3268,3 +3268,7 @@ input, select, textarea {
 .skillText{
 	color: black;
 }
+#mainHeader{
+	font-size: 54px;
+	color: black;
+}
